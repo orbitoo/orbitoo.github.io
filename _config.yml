@@ -18,14 +18,14 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: 
   facebook:
-  github: pianfan
+  github: orbitoo
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 orbitoo
 
 url: https://pianfan.github.io
 
@@ -60,6 +60,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - 
-README.md
+  - README.md
 
