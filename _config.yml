@@ -2,7 +2,7 @@ name: "Orbitoo's thoughts"
 description: "オルビト の 思はく"
 
 avatar: https://orbitoo.github.io/pic/avatar.jpg
-favicon: https://pianfan.github.io/pic/logo.png
+favicon: https://orbitoo.github.io/pic/logo.png
 
 navigation:
   - name: 首页
@@ -17,17 +17,17 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: 
-  email: 
+  zhihu:
+  email:
   facebook:
   github: orbitoo
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   youtube:
 
 footer-text: Copyright (c) 2024 orbitoo
 
-url: https://pianfan.github.io
+url: https://orbitoo.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
